@@ -26,16 +26,17 @@ A futuristic AI/ML Engineer portfolio built with Next.js 14, Tailwind CSS, and F
 ## Sections
 
 1. Hero — Name, typewriter title, CTA buttons, stats
-2. About — Bio, social links
-3. Education — LPU, Class XII, Class X
-4. Skills — 6 skill categories with tags
-5. Projects — 7 project cards with tech + impact
-6. Training — Cipher School
-7. Certifications — 4 certs
-8. Achievements — 3 achievement cards
-9. GitHub Activity — Stats + contribution graph
-10. Terminal — Interactive developer terminal
-11. Contact — Form + contact links
+2. Testing branch commit from GitHub UI.
+3. About — Bio, social links
+4. Education — LPU, Class XII, Class X
+5. Skills — 6 skill categories with tags
+6. Projects — 7 project cards with tech + impact
+7. Training — Cipher School
+8. Certifications — 4 certs
+9. Achievements — 3 achievement cards
+10. GitHub Activity — Stats + contribution graph
+11. Terminal — Interactive developer terminal
+12. Contact — Form + contact links
 
 ## Getting Started
 
