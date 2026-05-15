@@ -25,8 +25,8 @@ A futuristic AI/ML Engineer portfolio built with Next.js 14, Tailwind CSS, and F
 
 ## Sections
 
-1. Hero — Name, typewriter title
-2.  CTA buttons, stats
+1. Hero — Name, typewriter title, CTA buttons, stats
+2. Testing branch commit from GitHub UI.
 3. About — Bio, social links
 4. Education — LPU, Class XII, Class X
 5. Skills — 6 skill categories with tags
