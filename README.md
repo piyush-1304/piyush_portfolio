@@ -75,3 +75,6 @@ All portfolio data is in `lib/data.ts` — edit it to update your info, projects
 | Accent | `#00F5FF` |
 | Text | `#EAEAEA` |
 | Muted | `#6B7280` |
+
+
+Second commit for Git practice.
